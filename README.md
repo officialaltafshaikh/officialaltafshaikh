@@ -3,7 +3,7 @@
 
 ## I'm a Student of BSc Information Technology!!
 
-- 🌱 I’m Qucik learner
+- 🌱 I’m Quick learner
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
