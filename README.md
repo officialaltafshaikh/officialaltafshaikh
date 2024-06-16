@@ -1,11 +1,11 @@
 #### Hi there, I'm Altaf Shaikh 👋
 
 
-## I'm a Student of BSc Information Technology!!
+## I'm a Associate Software Engineer!!
 
 - 🌱 I’m Quick learner
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -42,5 +42,5 @@
 
 [website]: https://altafshaikhofficial.000webhostapp.com/
 [youtube]: https://www.youtube.com/channel/UCA6VrA8kSWFrSIDKUx19SfQ
-[instagram]: https://instagram.com/its_devil_14
+[instagram]: https://instagram.com/altaafshaikh14
 [linkedin]: https://linkedin.com/in/altafshaikh14
